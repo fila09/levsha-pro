@@ -968,8 +968,8 @@ textarea.input {
   background-color: #15b2f5;
   padding: .75rem 2rem;
   color: #fff;
-  line-height: 1.55
-  cursor: pointer;
+  line-height: 1.55;
+  cursor: pointer
 }
 
 .about__info a {

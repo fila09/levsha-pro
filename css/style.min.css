@@ -969,6 +969,7 @@ textarea.input {
   padding: .75rem 2rem;
   color: #fff;
   line-height: 1.55
+  cursor: pointer;
 }
 
 .about__info a {
